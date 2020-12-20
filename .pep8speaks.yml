@@ -18,7 +18,7 @@ descending_issues_order: False  # If True, PEP 8 issues in message will be displ
 
 message:  # Customize the comment made by the bot
     opened:  # Messages when a new PR is submitted
-        header: "Hello @{name}! Thanks for opening this PR. "
+        header: "Hello @{name}! Thanks for opening this PR. OPEN "
                 # The keyword {name} is converted into the author's username
         footer: "Do see the [Hitchhiker's guide to code style](https://goo.gl/hqbW4r)"
                 # The messages can be written as they would over GitHub
