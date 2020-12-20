@@ -4,5 +4,4 @@ print ("Hello world!")
 
 print ("goodbye")
 
-oh no!
-nope
+print "peace out"
