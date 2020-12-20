@@ -4,5 +4,5 @@ print ("Hello world!")
 
 print ("goodbye")
 
-oh no!
-nope
+
+print 'oi oi'
